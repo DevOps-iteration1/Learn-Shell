@@ -12,5 +12,5 @@ example1(){
   echo "Value of # - $#"
 }
 
-example1 30 40 50
-example1 $*
+
+example1 "$*"
