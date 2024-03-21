@@ -13,4 +13,4 @@ example1(){
 }
 
 example1 30 40 50
-example $*
+example1 $*
